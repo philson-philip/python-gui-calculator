@@ -6,7 +6,7 @@ Code contains both Simple and Scientific Calculator
 This code works only on the Python 3.x version
 
 ## Option
-File --> Scientific Calculator
+File --> Scientific Calculator<br>
 About --> Credits
 
 ## Working Demo
